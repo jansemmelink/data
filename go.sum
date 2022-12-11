@@ -1,0 +1,10 @@
+github.com/go-msvc/errors v1.1.0 h1:jbOdXDJySgXvpq3GyNo8/YWZ7x4HYyz3OxLH7nw/7o8=
+github.com/go-msvc/errors v1.1.0/go.mod h1:5C49YNbi5juDL9ntxw/QbapNHLs4M9SpJ5ETp8AN7+M=
+github.com/go-msvc/logger v0.0.0-20210121062433-1f3922644bec h1:Xrt+itPOlP+NsaQseWM00Fk0juNtqJZqCRZX8g6JV+w=
+github.com/go-msvc/logger v0.0.0-20210121062433-1f3922644bec/go.mod h1:2wVoA8rQtGPatj+5uHahKFExXJqcRHpq4an2UHuYidc=
+github.com/jansemmelink/assert v0.0.0-20221211072839-962d5876c502 h1:75cLZClhwaLoTbArdYGCHiTJN22yKhu6xLOsrcyzjJ8=
+github.com/jansemmelink/assert v0.0.0-20221211072839-962d5876c502/go.mod h1:6yYVhhIBCcTIeLZ4Cnpo7Flz+zfcEq+FTxR9nwYiR+E=
+github.com/jansemmelink/assert v0.0.0-20221211073112-4e01476cfa79 h1:ObPusac4zle3JNA9f/SFeB64/SC1uXvJpzYGdfasKek=
+github.com/jansemmelink/assert v0.0.0-20221211073112-4e01476cfa79/go.mod h1:6yYVhhIBCcTIeLZ4Cnpo7Flz+zfcEq+FTxR9nwYiR+E=
+golang.org/x/tools v0.4.0 h1:7mTAgkunk3fr4GAloyyCasadO6h9zSsQZbwvcaIciV4=
+golang.org/x/tools v0.4.0/go.mod h1:UE5sM2OK9E/d67R0ANs2xJizIymRP5gJU295PvKXxjQ=
