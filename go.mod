@@ -2,8 +2,6 @@ module github.com/jansemmelink/data
 
 go 1.19
 
-replace github.com/jansemmelink/assert => ../assert
-
 require (
 	github.com/go-msvc/errors v1.1.0
 	github.com/go-msvc/logger v0.0.0-20210121062433-1f3922644bec // indirect
